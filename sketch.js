@@ -26,7 +26,16 @@ function setup() {
 function draw() {
   //camera.zoom=camera.zoom+1
   background(0);  
-  
+  stand.display();
+  block1.display();
+  block2.display();
+  block3.display();
+  block4.display();
+  block5.display();
+  block6.display();
+  block7.display();
+  block8.display();
+  block9.display();
   
   a=a-1;
   
